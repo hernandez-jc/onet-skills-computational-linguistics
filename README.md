@@ -74,7 +74,7 @@ soc_code,title,skill_name,skill_importance,job_match_score,scraping_relevance
 15-1252.00,"Software Developers",Complex Problem Solving,4.75,80.0,True
 ```
 
-#🔬 *Technical Rigor*
+# **🔬 Technical Rigor**
 
 O*NET scales preserved: Importance (1-5), Level (1-7)
 
@@ -83,6 +83,33 @@ Economist-designed scoring: 40% writing, 30% programming, 20% analysis
 Production-ready: No missing values, consistent data types
 
 Download CSV → pandas.read_csv() → instant skills analysis
+
+## **📋 Data Dictionary & Metadata**
+Field,Type,Scale/Source,Description,Business Value
+"soc_code","string","O*NET SOC 8-digit","Standard Occupational Classification code","Universal labor market identifier"
+"title","string","O*NET v28.2","Official occupation title","Precise occupational targeting"  
+"skill_name","string","O*NET Skills taxonomy","Specific competency (Writing, Programming)","Curriculum development"
+"skill_importance","float","1-5 (5=critical)","Work context relevance score","Content prioritization"
+"skill_level","float","1-7 (7=expert)","Required proficiency","Tutorial complexity matching"
+"ability_name","string","O*NET Abilities","Cognitive/physical requirements","Learning objective alignment"
+"ability_level","float","1-7 (7=advanced)","Performance standard","Skill gap identification"
+"knowledge_area","string","O*NET Knowledge","Domain expertise required","Technical documentation scope"
+"knowledge_importance","float","1-5 (5=essential)","Foundational importance","Subject matter authority"
+"job_match_score","float","0-100 proprietary","Computational linguistics role fit","Talent pipeline optimization"
+"scraping_relevance","boolean","Economist-derived","Data extraction competency flag","Web scraping tutorial relevance"
+
+## **🔒 Intellectual Property Notice**
+PROPRIETARY METHODOLOGY
+• job_match_score = Weighted algorithm (40% communication, 30% programming, 20% analysis, 10% domain)
+• scraping_relevance = Heuristic model from 25+ years IT/finance localization experience  
+• Dataset derived from O*NET v28.2 via economist-designed ETL pipeline
+• Commercial licensing available for enterprise HR/AI applications
+
+Source: BS Economics + DigCompEdu + 25yr corporate localization 
+NOT synthetic/reverse-engineered data
+
+
+
 
 Built by Juan C Hernandez economist + digital educator + localization expert
 For technical teams who need to educate developers at scale.
