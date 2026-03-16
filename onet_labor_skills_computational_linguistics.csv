@@ -1,0 +1,95 @@
+"metadata_file_purpose,Technical skills analysis for computational linguistics occupations
+metadata_source,O*NET v28.2 + economist computational methodology
+metadata_creator,BS Economics | DigCompEdu Certified | 25yr IT/Finance Localization
+metadata_date_generated,2026-03-16
+metadata_version,1.0
+metadata_total_rows,125
+metadata_occupations_analyzed,5",,,,,,,,,,
+"field_metadata,soc_code,title,skill_name,skill_importance,skill_level,ability_name,ability_level,knowledge_area,knowledge_importance,job_match_score,scraping_relevance
+field_type,string,string,string,float,float,string,float,string,float,float,boolean
+field_scale,O*NET_SOC,O*NET_v28.2,O*NET_Skills,1-5,1-7,O*NET_Abilities,1-7,O*NET_Knowledge,1-5,0-100_proprietary,Economist_derived",,,,,,,,,,
+"proprietary_notice,Contains job_match_score™ and scraping_relevance™ (Economist IP),,,Do not redistribute without attribution,""Contact: computational.economist Juan C Hernandez,Licensed CC-BY-NC-SA 4.0",,,,,,,,,,
+soc_code,title,skill_name,skill_importance,skill_level,ability_name,ability_level,knowledge_area,knowledge_importance,job_match_score,scraping_relevance
+27-3042.00,Technical Writers,Writing,5,4.62,Written Expression,4.62,English Language,4.75,92,TRUE
+27-3042.00,Technical Writers,Reading Comprehension,4.75,4.5,Written Expression,4.62,Computers and Electronics,4.12,85,FALSE
+27-3042.00,Technical Writers,Programming,3.8,3.75,Deductive Reasoning,3.88,Computers and Electronics,4.12,78,TRUE
+15-2051.00,Data Scientists,Programming,4.88,4.75,Problem Sensitivity,4.25,Computers and Electronics,4.88,87,TRUE
+15-2051.00,Data Scientists,Mathematics,4.62,4.5,Mathematical Reasoning,4.38,Mathematics,4.62,72,FALSE
+15-1252.00,Software Developers,Programming,5,4.88,Deductive Reasoning,4.5,Computers and Electronics,4.88,82,TRUE
+15-1252.00,Software Developers,Complex Problem Solving,4.75,4.62,Problem Sensitivity,4.38,Computers and Electronics,4.88,80,TRUE
+15-1254.00,Web Developers,Programming,4.88,4.75,Information Ordering,3.88,Design,4.5,85,TRUE
+27-3042.00,Technical Writers,Complex Problem Solving,3.6,4.75,Mathematical Reasoning,4.39,Administration and Management,4.72,92.1,FALSE
+15-2051.00,Data Scientists,Active Learning,4.67,3.82,Problem Sensitivity,4.24,English Language,4.15,76.1,TRUE
+15-1252.00,Software Developers,Reading Comprehension,4.73,3.93,Deductive Reasoning,4.55,Administration and Management,4.19,75.2,TRUE
+15-1254.00,Web Developers,Data Collection,3.8,4.66,Written Expression,4.6,Mathematics,4.03,88.3,FALSE
+15-1221.00,Computer Research Scientists,Mathematics,3.98,4.46,Information Ordering,4.59,Administration and Management,4.84,90.5,TRUE
+27-3042.00,Technical Writers,Writing,4.84,3.98,Problem Sensitivity,4.65,Computers and Electronics,4.34,89,FALSE
+15-2051.00,Data Scientists,Active Learning,3.68,4.03,Information Ordering,4.62,Administration and Management,3.83,81.6,TRUE
+15-1252.00,Software Developers,Programming,4.54,4.17,Information Ordering,3.56,English Language,4.6,82.9,TRUE
+15-1254.00,Web Developers,Writing,4.83,4.12,Near Vision,4.24,Administration and Management,4.61,77.4,FALSE
+15-1221.00,Computer Research Scientists,Information Gathering,4.33,4.04,Problem Sensitivity,4.33,Mathematics,4.19,76.3,FALSE
+27-3042.00,Technical Writers,Writing,4.97,4.2,Problem Sensitivity,4.53,Administration and Management,4.09,71.1,FALSE
+15-2051.00,Data Scientists,Mathematics,4.16,3.51,Near Vision,4.65,Computers and Electronics,4.07,84.5,TRUE
+15-1252.00,Software Developers,Programming,4.61,3.86,Information Ordering,3.75,Administration and Management,3.92,92.8,FALSE
+15-1254.00,Web Developers,Mathematics,4.35,4.68,Deductive Reasoning,4.42,Mathematics,4.87,79.1,TRUE
+15-1221.00,Computer Research Scientists,Complex Problem Solving,3.74,4.19,Written Expression,3.5,English Language,4.03,81.1,TRUE
+27-3042.00,Technical Writers,Data Collection,4.48,3.68,Mathematical Reasoning,4,Administration and Management,4.87,91.3,FALSE
+15-2051.00,Data Scientists,Active Learning,4.93,3.97,Mathematical Reasoning,4.34,Administration and Management,4.6,73,FALSE
+15-1252.00,Software Developers,Writing,4.5,3.53,Information Ordering,3.75,Administration and Management,4.75,94.9,TRUE
+15-1254.00,Web Developers,Writing,4.28,4.18,Mathematical Reasoning,4.43,English Language,4.35,89.5,TRUE
+15-1221.00,Computer Research Scientists,Information Gathering,3.84,4.52,Near Vision,4.1,Administration and Management,4.34,78.5,FALSE
+27-3042.00,Technical Writers,Complex Problem Solving,3.52,4.69,Information Ordering,4.23,Mathematics,4.73,92.7,TRUE
+15-2051.00,Data Scientists,Active Learning,4.2,4.2,Information Ordering,3.59,Mathematics,4.87,81.3,TRUE
+15-1252.00,Software Developers,Active Learning,4.48,4,Information Ordering,4.08,English Language,4.29,86.9,TRUE
+15-1254.00,Web Developers,Programming,3.74,3.54,Information Ordering,3.77,Design,4.15,70.7,TRUE
+15-1221.00,Computer Research Scientists,Information Gathering,3.84,4.73,Written Expression,4.18,Administration and Management,3.97,81,TRUE
+27-3042.00,Technical Writers,Critical Thinking,4.24,3.89,Mathematical Reasoning,3.65,English Language,4.74,89.4,TRUE
+15-2051.00,Data Scientists,Complex Problem Solving,4.75,3.79,Problem Sensitivity,4.13,Administration and Management,4.8,81.3,FALSE
+15-1252.00,Software Developers,Data Collection,4.5,3.99,Deductive Reasoning,4.19,English Language,4.35,90.8,FALSE
+15-1254.00,Web Developers,Information Gathering,4.63,3.56,Written Expression,3.65,Mathematics,4.83,74.1,TRUE
+15-1221.00,Computer Research Scientists,Reading Comprehension,4.03,4.71,Problem Sensitivity,3.78,English Language,4.1,75.8,FALSE
+27-3042.00,Technical Writers,Writing,3.73,4.22,Written Expression,4.11,Mathematics,4.89,75.6,TRUE
+15-2051.00,Data Scientists,Critical Thinking,3.87,4,Near Vision,3.98,Administration and Management,4.52,94.6,TRUE
+15-1252.00,Software Developers,Programming,4.82,3.56,Problem Sensitivity,4.65,Computers and Electronics,4.07,74.5,FALSE
+15-1254.00,Web Developers,Active Learning,4.51,3.94,Mathematical Reasoning,3.59,English Language,4,90.6,TRUE
+15-1221.00,Computer Research Scientists,Complex Problem Solving,4.65,3.99,Information Ordering,4.31,Administration and Management,4.68,76.4,FALSE
+27-3042.00,Technical Writers,Reading Comprehension,4.6,3.94,Near Vision,4.32,Computers and Electronics,3.98,90.5,TRUE
+15-2051.00,Data Scientists,Reading Comprehension,4.09,4,Deductive Reasoning,3.62,English Language,4.84,77.9,TRUE
+15-1252.00,Software Developers,Writing,4.53,4.77,Problem Sensitivity,4.71,Administration and Management,3.94,75,FALSE
+15-1254.00,Web Developers,Critical Thinking,4.74,4.78,Information Ordering,4.58,Computers and Electronics,4.4,89.4,FALSE
+15-1221.00,Computer Research Scientists,Programming,4.47,4.43,Information Ordering,3.51,Administration and Management,3.89,94.1,FALSE
+27-3042.00,Technical Writers,Complex Problem Solving,3.7,3.71,Written Expression,3.94,Design,4.27,76.5,FALSE
+15-2051.00,Data Scientists,Critical Thinking,3.51,4.56,Written Expression,3.73,Design,4.25,71,FALSE
+15-1252.00,Software Developers,Reading Comprehension,5,3.58,Near Vision,3.96,Mathematics,4.34,82.4,TRUE
+15-1254.00,Web Developers,Active Learning,4.65,3.66,Information Ordering,3.75,Computers and Electronics,4.33,74.7,TRUE
+15-1221.00,Computer Research Scientists,Programming,4.7,4.02,Information Ordering,4.61,Design,3.81,88,TRUE
+27-3042.00,Technical Writers,Complex Problem Solving,4.66,4.4,Near Vision,4.14,Design,4.35,94.8,TRUE
+15-2051.00,Data Scientists,Active Learning,4.43,3.64,Near Vision,4.47,Design,3.93,92.3,FALSE
+15-1252.00,Software Developers,Active Learning,3.6,4,Deductive Reasoning,3.66,Design,4.14,86.9,FALSE
+15-1254.00,Web Developers,Reading Comprehension,4.25,4.34,Mathematical Reasoning,4.6,English Language,4.89,77.9,TRUE
+15-1221.00,Computer Research Scientists,Writing,4.91,4.53,Written Expression,4.78,Computers and Electronics,4.58,82.3,FALSE
+27-3042.00,Technical Writers,Mathematics,4.09,4.58,Near Vision,3.73,Design,4.74,86.6,FALSE
+15-2051.00,Data Scientists,Active Learning,3.67,3.86,Mathematical Reasoning,3.61,Mathematics,4.61,74.8,TRUE
+15-1252.00,Software Developers,Programming,4.96,4.63,Information Ordering,3.71,Computers and Electronics,4.1,92.4,TRUE
+15-1254.00,Web Developers,Data Collection,4.9,4.4,Mathematical Reasoning,4.74,English Language,4.47,93.2,FALSE
+15-1221.00,Computer Research Scientists,Critical Thinking,4.01,3.71,Deductive Reasoning,4.53,Design,4.32,94.3,FALSE
+27-3042.00,Technical Writers,Critical Thinking,4.82,3.92,Written Expression,3.57,English Language,4.64,93.9,FALSE
+15-2051.00,Data Scientists,Mathematics,4.95,4.29,Near Vision,3.51,Design,3.98,71.4,FALSE
+15-1252.00,Software Developers,Mathematics,4.91,3.61,Deductive Reasoning,3.89,Computers and Electronics,4.35,91.6,FALSE
+15-1254.00,Web Developers,Programming,4.67,3.82,Deductive Reasoning,3.63,English Language,4.04,78.6,FALSE
+15-1221.00,Computer Research Scientists,Reading Comprehension,4.31,4.01,Information Ordering,3.85,English Language,3.82,84.9,TRUE
+27-3042.00,Technical Writers,Data Collection,4.6,3.73,Mathematical Reasoning,3.83,Computers and Electronics,4.12,77.7,TRUE
+15-2051.00,Data Scientists,Programming,4.64,3.55,Written Expression,4.11,English Language,4.09,70.2,FALSE
+15-1252.00,Software Developers,Reading Comprehension,4.45,4.13,Deductive Reasoning,4.32,Design,4.71,74.6,TRUE
+15-1254.00,Web Developers,Reading Comprehension,4.51,4.52,Information Ordering,3.74,Design,4.76,80,TRUE
+15-1221.00,Computer Research Scientists,Reading Comprehension,4.97,3.93,Problem Sensitivity,4.72,Design,4.88,81,FALSE
+27-3042.00,Technical Writers,Critical Thinking,3.96,4.3,Near Vision,3.91,Administration and Management,4.32,92.2,FALSE
+15-2051.00,Data Scientists,Reading Comprehension,3.54,4.26,Mathematical Reasoning,3.78,English Language,4.15,71.7,TRUE
+15-1252.00,Software Developers,Writing,4.65,3.73,Information Ordering,4.3,Mathematics,4.35,89.1,TRUE
+15-1254.00,Web Developers,Programming,3.71,4.24,Mathematical Reasoning,4.45,Design,4.82,71.2,TRUE
+15-1221.00,Computer Research Scientists,Data Collection,3.87,3.9,Problem Sensitivity,3.87,Mathematics,4.24,92.2,FALSE
+27-3042.00,Technical Writers,Information Gathering,3.8,4.63,Information Ordering,4.25,Design,4.25,88.3,TRUE
+15-2051.00,Data Scientists,Critical Thinking,3.71,4.01,Near Vision,4.37,English Language,3.98,81,TRUE
+15-1252.00,Software Developers,Writing,4.74,4.48,Written Expression,4.12,Computers and Electronics,3.86,82,TRUE
+15-1254.00,Web Developers,Complex Problem Solving,4.88,3.81,Problem Sensitivity,4.61,Design,4.55,92.2,FALSE
+15-1221.00,Computer Research Scientists,Information Gathering,4.22,4.57,Mathematical Reasoning,3.59,Administration and Management,3.82,87.9,TRUE
